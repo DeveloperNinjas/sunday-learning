@@ -19,19 +19,3 @@ console.log(odd(number));
 const num = number.map((numb) => numb * 2);
 console.log(num);
 // [ 2, 4, 6, 8, 10 ]
-
-const dog = {
-  name: 'Mango',
-  age: 3,
-  isGoodBoy: true,
-  bark() {
-    console.log('Woof!');
-  },
-};
-const json = JSON.stringify(dog);
-console.log(json);
-console.log(typeof json);
-JSON.stringify(32);
-console.log(JSON.stringify(32));
-JSON.stringify(true);
-console.log(JSON.stringify(true));
