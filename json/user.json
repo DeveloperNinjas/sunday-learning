@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Олександр",
+    "age": 28,
+    "profession": "Розробник ПЗ",
+    "location": {
+      "country": "Україна",
+      "city": "Київ"
+    },
+    "avatar": "https://robohash.org/oleksandr.png"
+  },
+  {
+    "id": 2,
+    "name": "Марія",
+    "age": 34,
+    "profession": "Графічний дизайнер",
+    "location": {
+      "country": "Україна",
+      "city": "Львів"
+    },
+    "avatar": "https://robohash.org/maria.png?set=set3"
+  },
+  {
+    "id": 3,
+    "name": "Ігор",
+    "age": 41,
+    "profession": "Інженер",
+    "location": {
+      "country": "Україна",
+      "city": "Харків"
+    },
+    "avatar": "https://robohash.org/ihor.png?set=set4"
+  },
+  {
+    "id": 4,
+    "name": "Світлана",
+    "age": 25,
+    "profession": "Маркетолог",
+    "location": {
+      "country": "Україна",
+      "city": "Одеса"
+    },
+    "avatar": "https://robohash.org/svitlana.png?set=set2"
+  },
+  {
+    "id": 5,
+    "name": "Дмитро",
+    "age": 30,
+    "profession": "Фотограф",
+    "location": {
+      "country": "Україна",
+      "city": "Дніпро"
+    },
+    "avatar": "https://robohash.org/dmytro.png"
+  }
+]
